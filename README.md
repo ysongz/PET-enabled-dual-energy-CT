@@ -19,7 +19,7 @@ Modify both proj_forw_CASTOR.m and proj_back_CASTOR.m to include your scanner’
 ## Note: 
 Current gCT reconstruction code only supports sinogram format.
 
-If you use this package for your own research, please cite the corresponding research paper:
+If you use this package for your own research, please cite the corresponding research paper:\
 [Y. Zhu, S. Li, Z. Xie, et al., “Feasibility of PET-enabled dual-energy CT imaging: First physical phantom and patient results”, European Journal of Nuclear Medicine and Molecular Imaging, 52, 1912-1923(2025).](https://link.springer.com/article/10.1007/s00259-024-06975-5)
 
 ## Other related work:
