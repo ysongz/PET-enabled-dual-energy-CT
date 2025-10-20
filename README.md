@@ -1,7 +1,7 @@
 # PET-enabled dual-energy-CT
 This code package provides a **real-scanner data implementation** for PET-enabled dual-energy CT (DECT). The code utilizes the projector modified from CASToR package, making this implementation work for general PET/CT scanners. This code package contains two different algorithms for the gamma-ray CT (gCT) image reconstruction from time-of-flight PET emission data: 
 * Maximum likelihood of attenuation and activity (MLAA) 
-* kernel MLAA. 
+* kernel MLAA. \
 A demo file is provided to show how to use this package to reconstruct gCT image from real scanner data. 
 
 ## Running the Demo:
