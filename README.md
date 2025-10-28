@@ -3,6 +3,7 @@
 In PET-enabled dual-energy CT (DECT), a high-energy gamma-ray CT (gCT) at 511 keV can be reconstructed from standard time-of-flight PET emission data. This 511 keV gCT image, when combined with the low-energy x-ray CT image, forms a DECT image pair, which can be further used for different DECT applications. With this technique, additional information, such as tissue composition information, can now be obtained from a standard PET-CT scan from existing commercial PET/CT scanners. For more information of this technique, please also check https://wanglab.faculty.ucdavis.edu/research/ps-ct
 ![image](https://github.com/ysongz/my_figures/blob/main/PDECT_overview.png)
 
+## About the code package
 This code package provides a **real-scanner data implementation** for PET-enabled dual-energy CT (DECT). The code utilizes the projector modified from [CASToR package](https://castor-project.org/features), making this implementation work for general PET/CT scanners. This code package contains two different algorithms for the gamma-ray CT (gCT) image reconstruction from time-of-flight PET emission data: 
 * Maximum likelihood of attenuation and activity (MLAA) 
 * kernel MLAA.
